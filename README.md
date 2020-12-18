@@ -1,2 +1,2 @@
-# new-
-hey ho are you
+This is the Sparks Foundation Project devloped by Srushti Katkam
+
